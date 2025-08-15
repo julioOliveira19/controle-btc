@@ -75,7 +75,7 @@ def exibir_depositos():
 # Exemplo de uso:
 
 # Registrar um depósito (descomente se quiser testar)
-registrar_deposito(200, "10-08-2025")
+# registrar_deposito(200, "10-08-2025")
 
 # Exibir todos os depósitos registrados
 exibir_depositos()
