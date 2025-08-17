@@ -3,7 +3,7 @@ import csv
 from datetime import datetime
 from tabulate import tabulate
 
-ARQUIVO = "depositos_btc.csv"
+ARQUIVO = "controle-btc.csv"
 
 def get_btc_price(date=None):
     if date:
